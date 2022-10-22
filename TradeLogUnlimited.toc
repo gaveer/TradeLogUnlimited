@@ -1,0 +1,15 @@
+﻿## Interface: 90207
+## LoadOnDemand: 0
+## Title: TradeLogUnlimited
+## Notes: Recent trades, trade history, announcing trades of items and gold.
+## SavedVariablesPerCharacter: TradeLogUnlimitedd_TradesHistory, TradeLogUnlimitedd_Announce_Checked, TradeLogUnlimitedd_AnnounceChannel
+
+Libs\LibDBIcon-1.0.xml
+
+localization-enUS.lua
+localization-zhCN.lua
+localization-zhTW.lua
+localization-koKR.lua
+TradeLogUnlimited.lua
+RecentTradeFrame.xml
+TradeLogUnlimitedFrame.xml
